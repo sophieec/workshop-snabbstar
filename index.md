@@ -24,7 +24,7 @@ Vi utgår från att följande steg är uppfyllda:
 
 Ni ska fokusera på **steg 3–5**.
 
----
+--- 
 
 # Er uppgift
 
