@@ -1,3 +1,7 @@
+---
+layout: default
+title: ""
+---
 # Workshop: Granska en systematisk översikt med SnabbSTAR 
 
 ## Syfte
