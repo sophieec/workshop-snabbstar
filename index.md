@@ -33,10 +33,8 @@ Arbeta er igenom steg 3–5 i ordning.
 I varje steg:
 
 1. Läs och diskutera frågorna tillsammans.
-2. Gör en gemensam bedömning.
-3. Motivera kort er bedömning.
-4. Klicka på **Create** för att spara gruppens svar.
-5. Gå tillbaka hit och fortsätt med nästa steg.
+2. Gör en gemensam bedömning och om ni vill skriv ner hur ni tänkt. Svaren sparas inte.
+3. Fortsätt med nästa steg.
 
 
 
@@ -44,19 +42,19 @@ I varje steg:
 
 Här granskar ni hur författarna har bedömt och redovisat risken för bias i de inkluderade studierna.
 
-[**Starta steg 3 →**](https://github.com/sophieec/workshop-snabbstar/issues/new?template=steg-3-risk-for-bias.yml)
+[**Starta steg 3 →**](steg-3-risk-for-bias.html)
 
 ## Steg 4 – Sammanvägning
 
 Här granskar ni hur studiernas resultat har vägts samman och hur risk för bias har beaktats.
 
-[**Starta steg 4 →**](https://github.com/sophieec/workshop-snabbstar/issues/new?template=steg-4-sammanvagning.yml)
+[**Starta steg 4 →**](steg-4-sammanvagning.html)
 
 ## Steg 5 – Det sammanvägda resultatets tillförlitlighet
 
 Här granskar ni hur tillförlitliga de sammanvägda resultaten är och vilka osäkerheter som finns.
 
-[**Starta steg 5 →**](https://github.com/sophieec/workshop-snabbstar/issues/new?template=steg-5-tillforlitlighet.yml)
+[**Starta steg 5 →**](steg-5-tillforlitlighet.html)
 
 
 ## Bakgrund och för framtida granskningar
