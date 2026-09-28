@@ -1,0 +1,85 @@
+name: "Steg 5 – Tillförlitlighet"
+description: "Diskutera och dokumentera gruppens bedömning av steg 5"
+title: "Steg 5 – Tillförlitlighet – Grupp "
+labels: []
+
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        # Steg 5 – Det sammanvägda resultatets tillförlitlighet
+
+        ## Vad ska vi bedöma?
+
+        I det här steget undersöker vi hur författarna har bedömt **hur mycket vi kan lita på de sammanvägda resultaten**.
+
+        Fundera på vilka begränsningar och osäkerheter som finns och hur de påverkar slutsatserna.
+
+        ## Var kan ni leta?
+
+        Fokusera framför allt på:
+
+        - **Abstract**
+        - **Results 3.3 och 3.5–3.7**
+        - **Discussion**
+        - **Limitations**
+        - **Conclusion**
+
+        Leta också efter information om **protokoll, exkluderade studier och intressekonflikter**.
+
+        ## Diskutera i gruppen
+
+        ### A. Hur bedöms resultatens tillförlitlighet?
+
+        1. Gör författarna en strukturerad bedömning av resultatens tillförlitlighet, till exempel med GRADE eller någon annan metod?
+
+        2. Vilka omständigheter tar författarna hänsyn till när de diskuterar hur mycket vi kan lita på resultaten?
+
+        ### B. Vilka osäkerheter finns?
+
+        3. Finns det problem kopplade till exempelvis risk för bias, skillnader mellan studierna eller resultatens precision?
+
+        4. Tar författarna hänsyn till dessa osäkerheter när de drar sina slutsatser?
+
+        ### C. Finns den information som behövs?
+
+        5. Framgår vilka studier som har exkluderats och varför?
+
+        6. Finns information om protokoll och eventuella intressekonflikter?
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Gruppens samlade bedömning
+
+  - type: dropdown
+    id: bedomning
+    attributes:
+      label: "Uppfyller översikten steg 5 i SnabbSTAR?"
+      options:
+        - "Ja"
+        - "Nej"
+        - "Vi är osäkra"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivering
+    attributes:
+      label: "Varför?"
+      description: "Skriv kort vilka observationer som ligger bakom er bedömning."
+      placeholder: "Skriv gruppens motivering här, klicka på create för att spara er bedömning..."
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        ## När ni är klara
+
+        Klicka på **Create** för att spara gruppens bedömning.
+
+        [← Tillbaka till workshopens huvudsida](../../README.md)
