@@ -1,1 +1,86 @@
+name: "Steg 4 – Sammanvägning"
+description: "Diskutera och dokumentera gruppens bedömning av steg 4"
+title: "Steg 4 – Sammanvägning – Grupp "
+labels: []
 
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        # Steg 4 – Sammanvägning av studiernas resultat
+
+        ## Vad ska vi bedöma?
+
+        I det här steget undersöker vi hur författarna har vägt samman resultaten från de inkluderade studierna.
+
+        Fundera både på **om resultaten har vägts samman på ett lämpligt sätt** och **om författarna har tagit hänsyn till studiernas risk för bias när resultaten redovisas och tolkas**.
+
+        ## Var kan ni leta?
+
+        Fokusera framför allt på:
+
+        - **Methods 2.6 – Data syntheses and analyses**
+        - **Results 3.3 – Risk of bias**
+        - **Results 3.5–3.7**
+        - relevanta figurer
+        - **Discussion**
+        - **Limitations**
+
+        Ni behöver inte förstå alla statistiska detaljer.
+
+        ## Diskutera i gruppen
+
+        ### A. Hur har resultaten vägts samman?
+
+        1. Vilka resultat har författarna vägt samman?
+
+        2. Verkar studierna vara tillräckligt lika för att det ska vara rimligt att väga samman resultaten?
+
+        ### B. Hur hanteras skillnader mellan studierna?
+
+        3. Finns det viktiga skillnader mellan studiernas resultat?
+
+        4. Hur undersöker eller hanterar författarna sådana skillnader?
+
+        ### C. Har risk för bias beaktats?
+
+        5. Tar författarna hänsyn till studiernas risk för bias när de redovisar, tolkar eller diskuterar de sammanvägda resultaten?
+
+        6. Finns det något som gör att ni skulle vara försiktiga med att tolka de sammanvägda resultaten?
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Gruppens samlade bedömning
+
+  - type: dropdown
+    id: bedomning
+    attributes:
+      label: "Uppfyller översikten steg 4 i SnabbSTAR?"
+      options:
+        - "Ja"
+        - "Nej"
+        - "Vi är osäkra"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivering
+    attributes:
+      label: "Varför?"
+      description: "Skriv kort vilka observationer som ligger bakom er bedömning."
+      placeholder: "Skriv gruppens motivering här, klicka på create för att spara er bedömning..."
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        ## När ni är klara
+
+        Klicka på **Create** för att spara gruppens bedömning.
+
+        [← Tillbaka till workshopens huvudsida](../../README.md)
