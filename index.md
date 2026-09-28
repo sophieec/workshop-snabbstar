@@ -55,22 +55,6 @@ Här granskar ni hur tillförlitliga de sammanvägda resultaten är och vilka os
 [**Starta steg 5 →**](https://github.com/sophieec/workshop-snabbstar/issues/new?template=steg-5-tillforlitlighet.yml)
 
 
-
-# Workshop – granskning av en systematisk översikt med SnabbSTAR 2
-
-I den här övningen ska ni granska en systematisk översikt med hjälp av **SBU:s SnabbSTAR 2**.
-
-Ni arbetar tillsammans i grupp och gör en gemensam bedömning.
-
-## Material
-
-Ni behöver:
-
-- **Tay et al. (2021)** – den systematiska översikten
-- [SBU:s SnabbSTAR 2 – granskningsmall](Granskningsmall_snabbstar_2%20%28002%29.pdf)
-
-Artikeln får ni separat.
-
 ## Bakgrund och för framtida granskningar
 
 Vill du gå igenom hela SnabbSTAR finns även:
