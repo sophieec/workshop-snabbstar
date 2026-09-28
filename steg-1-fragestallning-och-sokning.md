@@ -35,3 +35,4 @@ Brister i litteratursökningen kan innebära att relevanta studier missas och at
 ---
 
 [← Tillbaka till workshopens huvudsida](https://sophieec.github.io/workshop-snabbstar/)
+
