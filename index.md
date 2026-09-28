@@ -1,34 +1,40 @@
-# Workshop – granskning av en systematisk översikt med SnabbSTAR 2
+# Workshop: Granska en systematisk översikt med SnabbSTAR 
 
-I den här övningen ska ni granska en systematisk översikt med hjälp av **SBU:s SnabbSTAR 2**.
+## Syfte
 
-Ni arbetar tillsammans i grupp och gör en gemensam bedömning.
+I den här övningen ska vi tillsammans granska en systematisk översikt med hjälp av SBU:s granskningsmall SnabbSTAR.
 
-## Material
+Vi granskar:
 
-Ni behöver:
+**Tay et al. (2021): Effectiveness of lay-led, group-based self-management interventions to improve glycated hemoglobin (HbA1c), self-efficacy, and emergency visit rates among adults with type 2 diabetes: A systematic review and meta-analysis.**
 
-- **Tay et al. (2021)** – den systematiska översikten
-- [SBU:s SnabbSTAR 2 – granskningsmall](Granskningsmall_snabbstar_2%20%28002%29.pdf)
+Artikeln får ni separat. Ni behöver inte läsa hela artikeln från början till slut.
 
-Artikeln får ni separat.
+## Uppgift
 
-## Steg 1 och 2 är redan bedömda
+SBU har redan bedömt att **steg 1 och 2 i SnabbSTAR är uppfyllda**.
 
-I den här övningen behöver ni inte själva bedöma steg 1 och 2 i SnabbSTAR.
+Vi fokuserar därför på:
 
-Vi utgår från att följande steg är uppfyllda:
+- **Steg 3 – Risk för bias i de inkluderade studierna**
+- **Steg 4 – Sammanvägning av studiernas resultat**
+- **Steg 5 – Det sammanvägda resultatets tillförlitlighet**
 
-- [Steg 1 – Frågeställning och litteratursökning](steg-1-fragestallning-och-sokning.md)
-- [Steg 2 – Relevansbedömning och dataextraktion](steg-2-relevansbedomning-och-dataextraktion.md)
+Arbeta tillsammans i gruppen. Det finns inte alltid ett självklart rätt eller fel – det viktiga är att diskutera **vad ni hittar i artikeln och hur ni resonerar**.
 
-Ni ska fokusera på **steg 3–5**.
+## Börja granskningen
 
---- 
+Arbeta er igenom steg 3–5 i ordning.
 
-# Er uppgift
+I varje steg:
 
-Diskutera frågorna i gruppen och gör en gemensam bedömning för varje steg.
+1. Läs och diskutera frågorna tillsammans.
+2. Gör en gemensam bedömning.
+3. Motivera kort er bedömning.
+4. Klicka på **Create** för att spara gruppens svar.
+5. Gå tillbaka hit och fortsätt med nästa steg.
+
+
 
 ## Steg 3 – Risk för bias
 
@@ -48,14 +54,28 @@ Här granskar ni hur tillförlitliga de sammanvägda resultaten är och vilka os
 
 [**Starta steg 5 →**](https://github.com/sophieec/workshop-snabbstar/issues/new?template=steg-5-tillforlitlighet.yml)
 
----
 
-## Så gör ni
 
-1. Läs de delar av artikeln som anges i respektive steg.
-2. Diskutera frågorna tillsammans.
-3. Välj gruppens samlade bedömning: **Ja**, **Nej** eller **Vi är osäkra**.
-4. Skriv kort varför ni gör den bedömningen.
-5. Klicka på **Create** för att spara gruppens svar.
+# Workshop – granskning av en systematisk översikt med SnabbSTAR 2
 
-Ni behöver inte läsa hela artikeln från början till slut.
+I den här övningen ska ni granska en systematisk översikt med hjälp av **SBU:s SnabbSTAR 2**.
+
+Ni arbetar tillsammans i grupp och gör en gemensam bedömning.
+
+## Material
+
+Ni behöver:
+
+- **Tay et al. (2021)** – den systematiska översikten
+- [SBU:s SnabbSTAR 2 – granskningsmall](Granskningsmall_snabbstar_2%20%28002%29.pdf)
+
+Artikeln får ni separat.
+
+## Bakgrund och för framtida granskningar
+
+Vill du gå igenom hela SnabbSTAR finns även:
+
+- [Steg 1 – Frågeställning och litteratursökning](steg-1-fragestallning-och-sokning.md)
+- [Steg 2 – Relevansbedömning och dataextraktion](steg-2-relevansbedomning-och-dataextraktion.md)
+
+
