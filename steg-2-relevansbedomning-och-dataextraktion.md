@@ -32,4 +32,4 @@ Brister i dataextraktionen kan innebära att felaktiga uppgifter används som gr
 
 ---
 
-[← Tillbaka till workshopens huvudsida](README.md)
+[← Tillbaka till workshopens huvudsida](https://sophieec.github.io/workshop-snabbstar/)
