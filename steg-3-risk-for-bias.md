@@ -50,21 +50,19 @@ Ni behöver inte läsa hela artikeln från början till slut.
 
 **Uppfyller översikten steg 3 i SnabbSTAR?**
 
-<label>
-<input type="radio" name="bedomning"> Ja
-</label>
+Diskutera och kom överens om en bedömning:
 
-<label>
-<input type="radio" name="bedomning"> Nej
-</label>
-
-<label>
-<input type="radio" name="bedomning"> Vi är osäkra
-</label>
+- **Ja**
+- **Nej**
+- **Vi är osäkra**
 
 ### Varför?
 
-<textarea rows="7" style="width:100%;" placeholder="Skriv gruppens motivering här..."></textarea>
+Formulera tillsammans vilka observationer som ligger bakom er bedömning.
+
+---
+
+[← Tillbaka till workshopens huvudsida](https://sophieec.github.io/workshop-snabbstar/) | [Gå vidare till steg 4 →](steg-4-sammanvagning.md)
 
 ---
 
